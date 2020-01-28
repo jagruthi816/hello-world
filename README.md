@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-i like :pizza:
+i like :EPAM:
